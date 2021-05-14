@@ -28,6 +28,5 @@ Ready to take part in amazing projects.
 * Discord (preferred): <b>FIRE#1771</b>
 * Telegram (preferred also): <b>@Hibanka</b>
 * Email: <b>hibankaoff@gmail.com</b>
-* VK: <b>https://vk.com/hibanka</b>
 
 <i>Why JavaScript? I like it.</i>
