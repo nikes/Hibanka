@@ -22,8 +22,11 @@ Ready to take part in amazing projects.
 ![MariaDB](https://img.shields.io/badge/-MariaDB-2C2F33?style=flat&logo=mariadb)
 ![DynamoDB](https://img.shields.io/badge/-DynamoDB-2C2F33?style=flat&logo=dynamodb)
 * ![TypeORM](https://img.shields.io/badge/-TypeORM-2C2F33?style=flat&logo=typeorm)
-![Prisma](https://img.shields.io/badge/-Prisma-2C2F33?style=flat&logo=prisma)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-2C2F33?style=flat&logo=sequelize)
+
+### 🎓 Learning / Looking At
+* ![Prisma](https://img.shields.io/badge/-Prisma-2C2F33?style=flat&logo=prisma)
+* ![MongoDB](https://img.shields.io/badge/-MongoDB-2C2F33?style=flat&logo=mongodb)
 
 ### 🤝 Contact
 
