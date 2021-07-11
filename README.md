@@ -1,10 +1,10 @@
-## 👋 Hey there!
+# 👋 Hey there!
 I'm <b>Russian Developer</b> living in Ukraine.\
-Currently developing <b>Discord Bots</b>, <b>Websites</b> and <b>Applications</b>.\
 Ready to take part in amazing projects.
 
-### 👨‍💻 Skills
+## 👨‍💻 Skills
 * Full Stack (Backend + Frontend)
+* Server Applications & Bots
 * Community Management
 * Product Owner
 
@@ -17,11 +17,7 @@ Ready to take part in amazing projects.
 ![Vuetify](https://img.shields.io/badge/-Vuetify-2C2F33?style=flat&logo=vuetify)
 * ![MySQL](https://img.shields.io/badge/-MySQL-2C2F33?style=flat&logo=mysql)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-2C2F33?style=flat&logo=mariadb)
-
-### 🎓 Now Learning
-* Serverless
-* GraphQL
-* PostgreSQL
+* ![Serverless](https://img.shields.io/badge/-Serverless-2C2F33?style=flat&logo=serverless)
 
 ### 🤝 Contact
 
