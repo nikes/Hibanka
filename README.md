@@ -21,11 +21,12 @@ Ready to take part in amazing projects.
 ![Vue.js](https://img.shields.io/badge/-Vue.js-2C2F33?style=flat&logo=vue.js)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-2C2F33?style=flat&logo=nuxt.js)
 ![Vuetify](https://img.shields.io/badge/-Vuetify-2C2F33?style=flat&logo=vuetify)
-* Database, ORM/ODM:\
+* Database:\
 ![MySQL](https://img.shields.io/badge/-MySQL-2C2F33?style=flat&logo=mysql)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-2C2F33?style=flat&logo=mariadb)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-2C2F33?style=flat&logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-2C2F33?style=flat&logo=redis)\
+![Redis](https://img.shields.io/badge/-Redis-2C2F33?style=flat&logo=redis)
+* ORM/ODM:\
 ![TypeORM](https://img.shields.io/badge/-TypeORM-2C2F33?style=flat&logo=npm)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-2C2F33?style=flat&logo=npm)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-2C2F33?style=flat&logo=npm)
@@ -33,8 +34,9 @@ Ready to take part in amazing projects.
 ![Lambda](https://img.shields.io/badge/-Lambda-2C2F33?style=flat&logo=amazon-aws)
 ![DynamoDB](https://img.shields.io/badge/-DynamoDB-2C2F33?style=flat&logo=amazon-aws)
 ![S3](https://img.shields.io/badge/-S3-2C2F33?style=flat&logo=amazon-aws)
-* CI/CD, Infrastructure as Code:\
-![Github Actions](https://img.shields.io/badge/-Github%20Actions-2C2F33?style=flat&logo=github-actions)\
+* CI/CD:\
+![Github Actions](https://img.shields.io/badge/-Github%20Actions-2C2F33?style=flat&logo=github-actions)
+* Infrastructure as Code:\
 ![Terraform](https://img.shields.io/badge/-Terraform-2C2F33?style=flat&logo=terraform)
 * Other:\
 ![Docker](https://img.shields.io/badge/-Docker-2C2F33?style=flat&logo=docker)
